@@ -23,4 +23,4 @@ as of version 1.0, crypt.h has four functions:
 
 as of version 1.0, these are the current weaknesses of crypt.h:
 - does not encrypt special character properly
-- it has a security vulnerability concerning the "string corrupted" if the hacker can time
+- it has a security vulnerability concerning the "string corrupted" line if someone intercepting can analyze patterns using time.
